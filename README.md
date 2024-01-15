@@ -1,7 +1,7 @@
 # Conversational Chatbot with Memory Integration 🤖🧠💬
 
 Welcome to our Conversational Chatbot project! In this example, we've used the "lmsys/fastchat-t5-3b-v1.0" language model and integrated the `ConversationBufferMemory` for comprehensive conversation tracking.
-![conversational-chatbots-and-memory-integration](./pic.png)
+
 ## Model Used
 
 - **Model Name:** lmsys/fastchat-t5-3b-v1.0
