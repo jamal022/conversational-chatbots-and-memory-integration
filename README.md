@@ -35,3 +35,6 @@ Welcome to our Conversational Chatbot project! In this example, we've used the "
    ```bash
    streamlit run app.py
 
+## Contributions
+
+Contributions are welcome! If you have ideas for improvements or want to report issues, please create a new issue or submit a pull request.
