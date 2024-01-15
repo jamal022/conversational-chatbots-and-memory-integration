@@ -34,6 +34,4 @@ Welcome to our Conversational Chatbot project! In this example, we've used the "
 4. **Run Streamlit Server:**
    ```bash
    streamlit run app.py
-   
-
 
