@@ -21,5 +21,19 @@ Welcome to our Conversational Chatbot project! In this example, we've used the "
 
 1. **Clone the Repository:**
    ```bash
-   git clone (https://github.com/jamal022/conversational-chatbots-and-memory-integration.git) 
-   cd your-chatbot-repo
+   git clone https://github.com/jamal022/conversational-chatbots-and-memory-integration.git 
+   cd conversational-chatbots-and-memory-integration
+
+2. **Install Requirements:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Provide API Key:**
+   - Obtain your API key for the language model and add it to the appropriate configuration file.
+
+4. **Run Streamlit Server:**
+   ```bash
+   streamlit run app.py
+   
+
+
